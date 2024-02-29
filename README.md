@@ -1,1 +1,3 @@
-DevFolio v1.0.0
+DevFolio (v1.0.0)
+
+
